@@ -1,0 +1,1 @@
+C:\Users\tunce\Desktop\RustProject\rust_blockchain\target\debug\rust_blockchain.exe: C:\Users\tunce\Desktop\RustProject\rust_blockchain\src\blockchain.rs C:\Users\tunce\Desktop\RustProject\rust_blockchain\src\main.rs
